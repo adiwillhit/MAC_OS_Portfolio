@@ -1,6 +1,6 @@
 .window {
-    height: 500px;
-    width: 700px;
+    height: 700px;
+    width: 1000px;
 
     background-color: #060606;
     border-radius: 0.75rem;
@@ -48,6 +48,10 @@
 
 
 
+    }
+
+    .main-content{
+        height: 100%;
     }
 
 }
