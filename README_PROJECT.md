@@ -193,10 +193,8 @@ This macOS portfolio is a creative way to showcase your skills and projects in a
 - UI/UX design principles
 - Creating interactive web applications
 
-## 📧 Contact
 
-Update the contact information in the Dock component to link to your actual email, calendar, and social media profiles.
 
 ---
 
-**Created with ❤️ using React and Vite**
+**Created with using React and Vite**
